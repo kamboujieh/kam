@@ -1,0 +1,2 @@
+# kam
+new to programming 
